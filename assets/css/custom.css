@@ -1,0 +1,14 @@
+.login-screen-title
+{
+	margin-top: 16vh !important;
+}
+
+.toolbar-through .page-content, .toolbar-fixed .page-content, .tabbar-through .page-content, .tabbar-fixed .page-content
+{
+	padding-bottom: 0px;
+}
+
+.navbar-through .page-content, .navbar-fixed .page-content
+{
+	padding-top: 20px;
+}
